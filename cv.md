@@ -50,6 +50,18 @@ function century(year) {
 
 2020 — 2021
 
-### [BTS Digital](app.dosmart.kz/), Nur-Sultan
+### [BTS Digital](https://app.dosmart.kz/), Nur-Sultan
 
 **Daily validation, digitization and verification of fiscal checks.**
+
+## Education
+
+### Engineering and Natural Sciences, Information Systems
+
+2013 - 2018 - **Suleyman Demirel University**
+
+**Languages:**
+
+- Kazakh — Native
+- English — A2 — Pre Intermediate
+- Russian — B1 — Intermediate
