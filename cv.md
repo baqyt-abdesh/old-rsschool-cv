@@ -13,3 +13,43 @@
 ## About me
 
 **I am a 26 year old newbie trying to gain knowledge of front-end development.**
+
+**Skills:**
+
+- HTML5
+- CSS3
+- AutoCAD
+
+## Code Example
+
+```javascript
+function century(year) {
+  if (Math.floor(year / 100) <= 1) {
+    return 1;
+  } else {
+    if (year % 100 == 0) {
+      return year / 100;
+    } else {
+      return Math.floor(year / 100 + 1);
+    }
+  }
+}
+```
+
+## Work experience
+
+**Leading specialist**
+
+2017 — 2018
+
+### QazCloud, Atyrau, [https://www.linkedin.com/company/llp-qazcloud/]
+
+**Was engaged in helpdesk, system administration in the subsidiary company QazPost.**
+
+**Operator**
+
+2020 — 2021
+
+### BTS Digital, Nur-Sultan, [app.dosmart.kz/]
+
+**Daily validation, digitization and verification of fiscal checks.**
