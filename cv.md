@@ -42,7 +42,7 @@ function century(year) {
 
 2017 — 2018
 
-### QazCloud, Atyrau, [https://www.linkedin.com/company/llp-qazcloud/]
+### [QazCloud](https://qazcloud.kz/), Atyrau
 
 **Was engaged in helpdesk, system administration in the subsidiary company QazPost.**
 
@@ -50,6 +50,6 @@ function century(year) {
 
 2020 — 2021
 
-### BTS Digital, Nur-Sultan, [app.dosmart.kz/]
+### [BTS Digital](app.dosmart.kz/), Nur-Sultan
 
 **Daily validation, digitization and verification of fiscal checks.**
